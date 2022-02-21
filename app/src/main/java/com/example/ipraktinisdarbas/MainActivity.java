@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
             this.tvMain.setTextColor(Color.RED);
         }
         else {
-            this.tvMain.setTextColor(Color.BLUE);
+            this.tvMain.setTextColor(Color.GREEN);
         }
         this.colorChange = !colorChange;
     }
