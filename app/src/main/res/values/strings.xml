@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">I praktinis darbas</string>
+    <string name="app_name">1 praktinis darbas</string>
+    <string name="label_name">Hello World!</string>
+    <string name="btn_do_smth">Click Me!</string>
+    <string name="btn_change_smth">Click Me Too!</string>
+    <string name="changed_label_caption">Text was changed!</string>
+
 </resources>
