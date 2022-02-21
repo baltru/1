@@ -1,4 +1,4 @@
-package com.example.ipraktinis;
+package com.example.ipraktinisdarbas;
 
 import androidx.appcompat.app.AppCompatActivity;
 
